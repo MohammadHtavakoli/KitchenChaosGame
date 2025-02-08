@@ -102,6 +102,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   kitchenObjectSO: {fileID: 11400000, guid: e8dcb4d7026284c4da8f67624c1a44f0, type: 2}
   counterTopPoint: {fileID: 113736179834005284}
+  secondClearCounter: {fileID: 7110387494962232964}
+  testing: 1
 --- !u!1001 &4260191321780877694
 PrefabInstance:
   m_ObjectHideFlags: 0
